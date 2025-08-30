@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-app",
+  "version": "1.0.0",
+  "main": "app.py",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
